@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimcu-on-thenet&show_icons=true&count_private=true&theme=algolia" alt="kimcu" />
-</p>
