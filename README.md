@@ -10,10 +10,10 @@
 
 ### :man_technologist: About me: 
 
-- A passionate .NET developer who has interested and experiences in Domain-Driven Design and Microservices.
-- I loves writing code in order to experiment and apply new techniques.
+- A passionate .NET developer who has an interest and experience in Domain-Driven Design and Microservices.
+- I love writing code to experiment and apply new techniques.
 - Pinned repositories
-  - [An Example of using DDD with .NET Core 3.1](https://github.com/kimcuhoang/ddd-net-ef-core) <img alt="ddd-net-ef-core" src="https://img.shields.io/github/stars/kimcuhoang/ddd-net-ef-core?style=social">
+  - [An Example of using DDD with .NET 8](https://github.com/kimcuhoang/ddd-net-ef-core) <img alt="ddd-net-ef-core" src="https://img.shields.io/github/stars/kimcuhoang/ddd-net-ef-core?style=social">
   - [Simple microservices with .NET Core 3.1 & Dapr & Tye](https://github.com/kimcuhoang/dapr-tye-simple-microservices) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kimcuhoang/dapr-tye-simple-microservices?style=social">
 
  
