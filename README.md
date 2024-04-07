@@ -10,7 +10,7 @@
 
 ### :man_technologist: About me: 
 
-- A passionate .NET developer who has an interest and experience in Domain-Driven Design and Microservices.
+- A passionate .NET developer with an interest in Domain-Driven Design and Microservices.
 - I love writing code to experiment and apply new techniques.
 - Pinned repositories
   - [An Example of using DDD with .NET 8](https://github.com/kimcuhoang/ddd-net-ef-core) <img alt="ddd-net-ef-core" src="https://img.shields.io/github/stars/kimcuhoang/ddd-net-ef-core?style=social">
